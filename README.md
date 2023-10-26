@@ -1,24 +1,5 @@
-# proyecto-vue
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Aqui presento el trabajo de Vue.js en donde se
+requeria realizar una plantilla que asemejera a
+de posteo de empleos de peakU, solo se hizo uso
+de 2 modulos, uno para el navBar y otro que maneja
+todo el apartado de template para los trabajos
